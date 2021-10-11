@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcelopradella
 - 👀 I’m interested in teste de API utilizando GIT
 - 🌱 I’m currently learning ...GIT
-- 💞️ I’m looking to collaborate on Tste de API
+- 💞️ I’m looking to collaborate on Teste de API
 - 📫 How to reach me ...mpradella30@gmail.com
 
 <!---
